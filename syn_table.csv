@@ -1,0 +1,279 @@
+,word,synonyms
+0, girl ,"female child, young person, youngster, teenager, adolescent, young woman, young lady"
+1, woman ,"lady, adult female, female"
+2, boy ,"male child, youngster, youth, lad, young man, young fellow, young person, teenager, adolescent"
+3, man ,"male, adult male, gentleman"
+4,female,"woman, lady, girl"
+5, standard ,"quality, level, grade, degree, worth, calibre, merit, excellence"
+6, education ,"teaching, schooling, tuition, tutoring, instruction, pedagogy, andragogy, coaching, training, tutelage, drilling, preparation, guidance, indoctrination, inculcation"
+7, male ,"masculine, ""mens"", of men, he-"
+8, learning ,"study, studying, education, schooling, tuition, teaching, academic work, instruction, training"
+9, integrity ,"honesty, uprightness, probity, rectitude, honour, honourableness, upstandingness, good character, principle, principles, ethics, morals, righteousness, morality, nobility"
+10, rigour ,"meticulousness, thoroughness, carefulness, attention to detail, diligence, scrupulousness, exactness, exactitude, precision, accuracy, correctness, strictness, punctiliousness, conscientiousness"
+11,rigor,"meticulousness, thoroughness, carefulness, attention to detail, diligence, scrupulousness, exactness, exactitude, precision, accuracy, correctness, strictness, punctiliousness, conscientiousness"
+12, academic ,"educational, scholastic, instructional, pedagogical, scholarly, studious, literary, well read, intellectual, clever, erudite, learned, educated, cultured, bookish"
+13, testing ,"examining, trying"
+14,online,"elearning, e-learning, on-line, web-based"
+15,on-line,"elearning, e-learning, online, web-based"
+16,elearning,"online learning, on-line learning, online education, on-line education, e-learning, web-based learning, technology based, electronic learning, "
+17,e-learning,"online learning, on-line learning, online education, on-line education, elearning, web-based learning, technology based, electronic learning, "
+18,dishonesty,"deceit, deception, duplicity, lying, falseness, falsity, falsehood, untruthfulness"
+19,academic dishonesty,"cheating, plagerism"
+20,correlation,"connection, association, link, tie-in, tie-up, relation, relationship, interrelationship, interdependence, interconnection, interaction"
+21,positive,"affirmative, yes"
+22,impeachment,"challenge, question, indict, charge, accuse, arraign, prosecute"
+23,school violence,"bullying, cyberbullying, school shooting"
+24,bullying,"cyberbullying, harassment, aggression"
+25,cyberbullying,bullying
+26,harassment,"persecution, harrying, pestering, badgering, intimidation, bother, annoyance, aggravation, irritation, pressure, pressurization, force, coercion, molestation"
+27,coercion,"force, compulsion, constraint, duress, oppression, enforcement, harassment, intimidation, threats, insistence, demand, arm-twisting, pressure, pressurization, influence"
+28,lying,"deception, dishonest, dishonesty, obfuscation, perjure, perjury"
+29,obstruction,"block, prevent, obfuscate, prevent, delay"
+30,contempt,"scorn, disdain, disrespect, deprecation, disparagement, denigration, opprobrium, odium, obloquy, scornfulness"
+31,violate,"contravene, breach, commit a breach of, infringe, infract, break, transgress, overstep, not comply with, disobey, defy, flout, fly in the face of, rebel against"
+32,rape,"sexual assault, sexual abuse"
+33,sexual assault,"rape, sexual abuse"
+34,social media,
+35,civil,"secular, non-religious, lay, non-military, civilian"
+36,society,"the community, the public, the general public, the people, the population"
+37,youth violence,juvenile crime
+38,blacks,"african-americans, negros"
+39,african-americans,"blacks, negros"
+40,grades,
+41,achievement,"attainment, reaching, gaining, winning, acquirement, procurement, accomplishment, attainment, feat, performance, undertaking, act, action, deed, effort"
+42,shooting,
+43,stabbing,"agonizing, extremely painful, severe, acute, intense, extreme, savage, violent, racking, searing, piercing, stabbing, raging, harrowing, tormenting"
+44,weapon,"firearm, gun, knife, club, blunt object"
+45,weapons,"firearms, guns, knives, blunt objects"
+46,gun,"firearm, weapon, pistol, rifle, assault rifle, shotgun, AR-15, AK"
+47,guns,"firearms, weapons, pistols, rifles, assault rifles, shotguns, AR-15s, Aks"
+48,firearm,"gun, weapon, rifle, shotgun, pistol, assault rifle, AR, AK"
+49,justified,"valid, sound, well founded, well grounded, justified, justifiable, warranted, warrantable, defensible, defendable, legitimate, reasonable, logical"
+50,unjustified,"irrational, unreasonable, unsound, unreasoned, unfounded, groundless, unjustifiable, unjustified"
+51,jurisdiction,"authority, control, power, dominion, rule, administration, command, sway, leadership, sovereignty, ascendancy, hegemony, mastery"
+52,control,"jurisdiction, sway, power, authority, command, dominance, domination, government, mastery, leadership, rule, reign, sovereignty, supremacy, ascendancy"
+53,internet,
+54,expose,"reveal, uncover, lay bare, bare, leave unprotected"
+55,literacy,"ability to read and write, reading ability, writing ability, reading proficiency, writing proficiency"
+56,age,"number of years, lifetime, duration, length of life"
+57,life,"existence, being, living, animation, aliveness, animateness"
+58,prevent,"stop, put a stop to, avert, nip in the bud, fend off, turn aside, stave off, ward off, head off, shut out, block, intercept, halt, arrest, check"
+59,adhere,"stick, stick fast, cling, hold fast, cohere, bond, attach"
+60,judge,"justice, magistrate, Her Honour, His Honour, Your Honour"
+61,lawyer,"legal practitioner, attorney, legal officer, legal adviser, legal representative, legal executive, agent, member of the bar"
+62,money,"cash, hard cash, ready money"
+63,defamation,"libel, slander, character assassination, defamation of character, calumny, vilification, traducement, obloquy, scandal, scandalmongering, malicious gossip, tittle-tattle, backbiting, aspersions, muckraking"
+64,correlation,"connection, association, link, tie-in, tie-up, relation, relationship, interrelationship, interdependence, interconnection, interaction"
+65,methodology,"course of action, line of action, plan of action, policy, series of steps, plan, method, system, strategy, stratagem, way, approach, formula, mechanism, methodology"
+66,violence,"brutality, brute force, roughness, ferocity, fierceness, savagery, cruelty, sadism, barbarity, barbarousness, brutishness, murderousness, bloodthirstiness, ruthlessness, inhumanity"
+67,active shooter,
+68,explosive,"volatile, inflammable, flammable, combustible, incendiary, eruptive, unstable"
+69,oppression,"persecution, abuse, maltreatment, ill treatment, tyranny, despotism, repression, suppression, subjection, subjugation, enslavement, exploitation"
+70,oppressive,"harsh, cruel, brutal, repressive, crushing, tyrannical, tyrannous, iron-fisted, domineering, autocratic, dictatorial, undemocratic, anti-democratic, despotic, draconian"
+71,harsh,"grating, jarring, grinding, rasping, raspy, strident, raucous, brassy, jangling, metallic, ear-piercing, discordant, dissonant, disagreeable, unharmonious"
+72,illegal,"unlawful, illicit, illegitimate, against the law, criminal, lawbreaking, actionable, felonious, foul, against the rules"
+73,intentionally,"deliberately, on purpose, purposely, purposefully, by design, knowingly, wittingly, consciously"
+74,deliberately,"intentionally, on purpose, purposely, by design, knowingly, wittingly, consciously, purposefully, carefully, unhurriedly, steadily, evenly, measuredly"
+75,knowingly,"deliberately, intentionally, consciously, wittingly, with full knowledge, in full awareness, ""with ones eyes open"", on purpose, by design, calculatedly, premeditatedly, studiedly, wilfully, purposefully, willingly"
+77,female child,
+78,young person,
+79,youngster,"young person, child, young adult, young man, young woman, youth, juvenile, teenager, adolescent, teen, junior, stripling, whippersnapper, young one, little one"
+80,teenager,"adolescent, youth, young person, boy, girl, minor, juvenile"
+81,adolescent,"teenage, teenaged, pubescent, youthful, young, juvenile"
+82,young woman,
+83,young lady,"youngster, young one, little one, boy, girl"
+84,lady,"woman, adult female, female, girl"
+85,adult female,
+86,male child,
+87,youth,"early years, early life, young days, teens, teenage years, adolescence, preadolescence, young adulthood, boyhood, girlhood, childhood"
+88,lad,"boy, schoolboy, youth, youngster, juvenile, stripling, young fellow, junior, whippersnapper"
+89,young man,"youngster, young one, little one, boy, girl"
+90,young fellow,
+91,male,"masculine, ""mens"", of men, he-"
+92,adult male,
+93,gentleman,
+94,woman,"lady, adult female, female"
+95,girl,"female child, young person, youngster, teenager, adolescent, young woman, young lady"
+96,quality,"standard, grade, class, classification, calibre, status, condition, character, nature, constitution, make-up, form, rank, worth, value"
+97,level,
+98,grade,"rank, level, echelon, standing, station, position, placing, class, status, order"
+99,degree,"level, stage, point, rung, standard, grade, gradation, mark"
+100,worth,
+101,calibre,"quality, merit, distinction, character, worth, stature, excellence, superiority, eminence, pre-eminence"
+102,merit,"excellence, goodness, standard, quality, level, grade, high quality, calibre, worth, good, credit, eminence, worthiness, value, virtue"
+103,excellence,"distinction, quality, high quality, superiority, brilliance, greatness, merit, calibre, eminence, pre-eminence, supremacy, peerlessness, transcendence, value, worth"
+104,teaching,"teaching, preaching, evangelism"
+105,schooling,"education, teaching, tuition, instruction, tutoring, tutelage, pedagogy, andragogy"
+106,tuition,"teaching, instruction, coaching, tutoring, lessons, tutorials, education, schooling, tutelage, pedagogy, andragogy"
+107,tutoring,
+108,instruction,"order, command, directive, direction, decree, edict, injunction, mandate, dictate, commandment, diktat, demand, bidding, requirement, stipulation"
+109,pedagogy,"teaching, schooling, tuition, tutoring, instruction, pedagogy, andragogy, coaching, training, tutelage, drilling, preparation, guidance, indoctrination, inculcation"
+110,andragogy,"teaching, schooling, tuition, tutoring, instruction, pedagogy, andragogy, coaching, training, tutelage, drilling, preparation, guidance, indoctrination, inculcation"
+111,coaching,
+112,training,"instruction, teaching, coaching, tuition, tutoring, tutelage, schooling, education, pedagogy, andragogy, drilling, priming, preparation, grounding, guidance"
+113,tutelage,"care, guardianship, charge, keeping, safe keeping, wardship, ward, responsibility, protection, guidance, tutelage"
+114,drilling,
+115,supremacy,"ascendancy, predominance, primacy, dominion, hegemony, authority, mastery, control, power, sway, rule, sovereignty, lordship, leadership, influence"
+116,study,"learning, education, schooling, work, academic work, book work, scholarship, tuition, research"
+117,length of life,
+118,precision,"exactness, exactitude, accuracy, accurateness, correctness, preciseness, clarity, clearness, distinctness"
+119,block,"chunk, hunk, brick, slab, lump, piece"
+120,tutorials,
+121,carefulness,
+122,indict,"charge with, accuse of, arraign for, take to court for, put on trial for, bring to trial for, prosecute for"
+123,duress,"coercion, compulsion, force, pressure, pressurization, intimidation, threats, constraint, enforcement, exaction"
+124,discordant,"in disagreement, at variance, at odds, disagreeing, differing, divergent, discrepant, contradictory, contrary, in conflict, conflicting, opposite, opposed, opposing, clashing"
+125,on-line education,
+126,unjustifiable,"indefensible, inexcusable, unforgivable, unpardonable, groundless, unfounded, without foundation, foundationless, baseless, without basis, unsupported, unsubstantiated, unconfirmed, uncorroborated, invalid"
+127,direction,"way, route, course, line, run, bearing, orientation"
+128,connection,"link, relationship, relation, relatedness, interrelation, interrelatedness, interconnection, interdependence, association, attachment, bond, tie, tie-in, correspondence, parallel"
+129,blunt object,
+130,disagreeable,"unpleasant, displeasing, nasty, horrible, dreadful, horrid, frightful, abominable, odious, offensive, obnoxious, objectionable, repugnant, repulsive, repellent"
+131,enforcement,"imposition, implementation, application, carrying out, administration, administering, discharge, fulfilment, execution, prosecution, pursuance, forcing, compelling, exacting, extorting"
+132,policy,"plans, strategy, proposed action, blueprint, approach, scheme, stratagem, programme, schedule, code, system, guidelines, intentions, notions, theory"
+133,morals,
+134,member of the bar,
+135,make-up,"cosmetics, greasepaint"
+136,uncover,"lay bare, bare, expose, expose to view, leave unprotected, reveal, display, put on display, put on show, exhibit"
+137,libel,"defamation, defamation of character, character assassination, calumny, misrepresentation, scandalmongering"
+138,brassy,
+139,plan of action,"scheme, plan of action, idea, master plan, game plan, proposal, proposition, ploy, suggestion, project, programme, system, method, procedure, strategy"
+140,stipulation,"condition, precondition, proviso, provision, prerequisite, requisite, specification"
+141,unreasonable,"uncooperative, obstructive, unhelpful, disobliging, unaccommodating, troublesome, awkward, contrary, difficult, tiresome, annoying, vexatious, unacceptable, preposterous, outrageous"
+142,eruptive,
+143,badgering,
+144,nature,"the natural world, the living world, Mother Nature, creation, the world, the environment, the earth, Mother Earth, the universe, the cosmos, natural forces"
+145,minor,"slight, small, little known, unknown, lesser"
+146,of men,
+147,literary,written
+148,insistence,"demand, bidding, command, dictate, instruction, requirement, request, entreaty, urging, exhortation, importuning, assertion, declaration, contention, statement"
+149,bidding,auction
+150,early years,
+151,administration,"management, managing, direction, directing, command, commanding, control, controlling, charge, conduct, conducting, operation, regulation, regulating, handling"
+152,educated,
+153,well grounded,"well founded, sound, well grounded, reasonable, rational, logical, justifiable, defensible, defendable, supportable, sustainable, maintainable, workable, arguable, able to hold water"
+154,gradation,"range, scale, gamut, spectrum, sweep, compass, span, level, rank, position, standing, status, station, degree, grade"
+155,arrest,"apprehend, take into custody, seize, take in, take prisoner, detain, put in jail, throw in jail"
+156,legitimate,"legal, lawful, licit, legalized, authorized, permitted, permissible, allowable, allowed, admissible, recognized, sanctioned, approved, licensed, statutory"
+157,worthiness,
+158,mandate,"instruction, directive, direction, decree, command, order, injunction, edict, charge, commission, bidding, warrant, ruling, ordinance, law"
+159,premeditatedly,
+160,act,"take action, take steps, take measures, take the initiative, move, make a move, react, do something, proceed, go ahead"
+161,plagerism,
+162,interdependence,
+163,interaction,"action, activity, operation, movement, motion, agency, employment, working, function, functioning, exercise, interaction, interplay"
+164,anti-democratic,"authoritarian, autocratic, autarchic, dictatorial, tyrannical, oppressive, repressive, one-party, monocratic, absolute, absolutist, undemocratic, anti-democratic, illiberal, despotic"
+165,feat,"achievement, accomplishment, attainment, coup, master stroke, triumph"
+166,procurement,"obtaining, acquiring, gaining, gain, procuring, procurement, collecting, collection, attainment, appropriation, amassing"
+167,young,"youthful, juvenile, young people, youths, children, boys and girls, youngsters, young ones, the younger generation, the next generation, juveniles, minors, schoolboys, schoolgirls, whippersnappers"
+168,AR,
+169,defendable,
+170,volatile,"evaporative, vaporous, vaporescent"
+171,bother,
+172,carefully,
+173,extremely painful,
+174,acute,"severe, critical, drastic, dire, dreadful, terrible, awful, grave, bad, serious, profound"
+175,fly in the face of,"go against, flout, defy, disobey, refuse to obey, rebel against, ""thumb ones nose at"", disregard, ignore, ""set ones face against"", kick against"
+176,ability to read and write,
+177,jangling,
+178,justifiable,"valid, legitimate, warranted, well founded, justified, just, sound, reasonable, sensible"
+179,aspersions,
+180,cling,"hold on to, clutch, grip, grasp, clasp, attach oneself to, hang on to, hold tightly, clench"
+181,duplicity,"deceitfulness, deceit, deception, deviousness, two-facedness, double-dealing, underhandedness, dishonesty, falseness, falsity, fraud, fraudulence, sharp practice, swindling, cheating"
+182,harrying,
+183,scorn,"contempt, derision, contemptuousness, disdain, derisiveness, scornfulness, mockery, sneering, scoffing"
+184,ready money,"cash, hard cash, ready money"
+185,"""mens""",
+186,sexual abuse,
+187,check,"examine, inspect, look at, look over, scrutinize, scan, survey"
+188,bond,"friendship, relationship, fellowship, partnership, association, affiliation, alliance, coalition"
+189,teenage,"adolescent, teenaged, youthful, young, juvenile"
+190,authority,"power, jurisdiction, command, control, mastery, charge, dominance, dominion, rule, sovereignty, ascendancy, supremacy, domination"
+191,living,"livelihood, income, source of income, means of support, means, subsistence, keep, maintenance, sustenance, nourishment, daily bread, upkeep"
+192,acquirement,"acquisition, acquiring, obtaining, gaining, earning, winning, securing, procuring, procurement"
+193,diligence,"conscientiousness, assiduousness, assiduity, industriousness, rigour, rigorousness, punctiliousness, meticulousness, carefulness, thoroughness, sedulousness, attentiveness, heedfulness, earnestness, intentness"
+194,denigration,
+195,valid,"well founded, sound, well grounded, reasonable, rational, logical, justifiable, defensible, defendable, supportable, sustainable, maintainable, workable, arguable, able to hold water"
+196,force,"strength, power, energy, might, potency, vigour, muscle, stamina, effort, exertion, impact, pressure, weight, impetus"
+197,studying,
+198,AR-15,
+199,flammable,"inflammable, burnable, combustible, incendiary, unstable"
+200,measuredly,
+201,put a stop to,"bring to an end, halt, put an end to, end, bring to a stop, bring to a halt"
+202,murderousness,
+203,responsibility,"authority, control, power, leadership, management, influence"
+204,calumny,"slander, defamation, defamation of character, character assassination, misrepresentation of character, evil-speaking, calumniation, libel"
+205,grinding,"overwhelming, overpowering, hard to bear, unbearable, burdensome, unendurable, intolerable, heavy"
+206,scandal,"outrageous wrongdoing, outrageous behaviour, immoral behaviour, unethical behaviour, discreditable behaviour, shocking incident of events, shocking series of events, impropriety, misconduct, wrongdoing"
+207,domineering,"overbearing, authoritarian, imperious, high-handed, high and mighty, autocratic, autarchic"
+208,challenge,"dare, provocation"
+209,thoroughness,
+210,aggravation,"worsening, exacerbation, compounding"
+211,barbarousness,
+212,existence,"alive, existing, extant, existent"
+213,halt,"stop, come to a halt, come to a stop, come to a standstill, come to rest, pull up, draw up, stand still, draw to a stand, cease, stop, finish, discontinue, terminate, conclude"
+214,subjection,"subjugation, domination, oppression, control, mastery, repression, suppression, bondage, slavery, enslavement, persecution, exploitation, abuse"
+215,bare,"naked, unclothed, undressed, uncovered, stripped, with nothing on, in a state of nature, disrobed, unclad, undraped, exposed"
+216,piercing,"shrewd, discerning, perceptive, probing, searching, observant, penetrating, penetrative, sharp, keen, alert, intent, inquisitive, perceptive, percipient"
+217,form,"shape, configuration, formation, conformation, structure, construction, arrangement, disposition, appearance, outward appearance, outward form, exterior"
+218,mechanism,"apparatus, machine, appliance, tool, device, implement, utensil, instrument, contraption, contrivance, gadget, tackle, structure, system, machinery"
+219,point,"tip, sharp end, tapered end, end, extremity"
+220,assault rifles,
+221,assault rifle,
+222,writing proficiency,
+223,affirmative,
+224,adolescence,"teenage years, teens, youth, young adulthood, young days, early life"
+225,attach,"fasten, fix, affix, join, connect, couple, link, secure, make fast, tie, tie up, bind, fetter, strap, rope"
+226,inculcation,
+227,pistol,"revolver, gun, handgun, side arm"
+228,young one,
+229,severe,"acute, very bad, serious, grave, critical, dire, drastic, grievous, extreme, dreadful, terrible, awful, frightful, appalling, sore"
+230,civilian,"non-military person, non-combatant, ordinary citizen, private citizen"
+231,consciously,
+232,principle,"truth, proposition, concept, idea, theory, postulate"
+233,teens,
+234,contravene,"break, breach, fail to comply with, fail to observe, violate, infringe, offend against, transgress against"
+235,preparation,"devising, putting together, thinking up, drawing up, construction, composing, composition, editing, fashioning, concocting, production, getting ready, making ready, arrangement, development"
+236,cultured,"cultivated, artistically aware, intellectually aware, artistic, enlightened, civilized, educated, well educated, well read, well informed, learned, knowledgeable, discerning, discriminating, with good taste"
+237,fend off,"ward off, head off, stave off, hold off, keep off, repel, repulse, resist, forestall, pre-empt, fight off, defend oneself against, guard against, discourage, prevent"
+238,constitution,"charter, social code, canon, body of law, system of laws, system of rules"
+239,warranted,
+240,directive,"instruction, direction, command, order, charge, injunction, enjoinment, prescription, demand"
+241,raucous,"harsh, strident, screeching, squawky, squawking, sharp, grating, discordant, dissonant, inharmonious, unmelodious, jarring, brassy, rowdy, noisy"
+242,brute force,
+243,harrowing,
+244,unharmonious,"grating, jarring, grinding, rasping, raspy, strident, raucous, brassy, jangling, metallic, ear-piercing, discordant, dissonant, disagreeable, unharmonious"
+245,roughness,
+246,infract,
+247,goodness,"virtue, virtuousness, good, righteousness, morality, ethicalness, uprightness, upstandingness, integrity, principle, dignity, rectitude, rightness, kindness, kindliness"
+248,commit a breach of,
+249,tyrannous,
+250,blunt objects,
+251,dictatorial,"autocratic, monocratic, undemocratic, totalitarian, authoritarian"
+252,placing,"positioning, placing, putting in place, arrangement, position, arranging, deployment, location, disposition, disposal, emplacement, installation, install, stationing"
+253,cruel,"brutal, savage, inhuman, barbaric, barbarous, brutish, bloodthirsty, murderous, homicidal, cut-throat, vicious, ferocious, fierce"
+254,magistrate,"judge, magistrate, Her Honour, His Honour, Your Honour"
+255,leadership,"guidance, direction, authority, control, management, superintendence, supervision"
+256,backbiting,"malicious talk, spiteful talk, slander, libel, defamation, abuse, character assassination, scandalmongering, disparagement, denigration, vilification, vituperation, calumny, revilement"
+257,against the law,
+258,grating,"scraping, scratching, grinding, rasping, creaking, jarring, abrasive, harsh, raucous, strident, piercing, shrill, ear-piercing, screeching, squawking"
+259,association,"alliance, consortium, coalition, union, league, guild, syndicate, corporation, federation, confederation, confederacy, conglomerate, cooperative, partnership, amalgamation"
+260,reign,"ruling, regnant, be king, be queen, be monarch, be sovereign, sit on the throne, occupy the throne, wear the crown, wield the sceptre, hold sway, rule, govern, be in power"
+261,inhumanity,"cruelty, harshness, brutality, callousness, sadism, severity, savagery, viciousness, barbarity, barbarism"
+262,criminal,"lawbreaker, offender, villain, delinquent, malefactor, culprit, wrongdoer, transgressor, sinner"
+263,charge,"ask in payment, ask, fix a charge, fix a price, impose, levy"
+264,effort,"attempt, try, endeavour"
+265,protection,"defence, shielding, shelter, preservation, conservation, safe keeping, safeguarding, safety, security, sanctuary, refuge, lee, immunity, insurance, indemnity"
+266,secular,"non-religious, lay, non-church, temporal, worldly, earthly, profane"
+267,strategy,"master plan, grand design, game plan, plan of action, plan, policy, proposed action, scheme, blueprint, programme, procedure, approach, schedule"
+268,metallic,
+269,accuse,"charge with, indict for, arraign for, take to court for, put on trial for, bring to trial for, prosecute for"
+270,illegitimate,"illegal, unlawful, illicit, against the law, criminal, lawbreaking, actionable, felonious"
+271,sadism,schadenfreude
+272,juvenile,"young, teenage, teenaged, adolescent, junior, underage, pubescent, prepubescent"
+273,legal adviser,
+274,despotism,"tyranny, dictatorship, totalitarianism, authoritarianism, absolute rule, absolutism"
+275,relationship,"connection, relation, association, link, correlation, correspondence, parallel, tie-in, tie-up, alliance, bond, interrelation, interconnection"
+276,injunction,"order, ruling, direction, directive, command, instruction, demand"
+277,cohere,"stick together, hold together, be united, bind, cling, fuse, form a whole"
+278,winning,"victorious, successful, triumphant, vanquishing, conquering"
