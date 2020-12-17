@@ -8,6 +8,6 @@ RUN pip install jupyter
 
 COPY . .
 
-RUN ["chmod", "+x", "./letsgo.sh"]
+RUN ["chmod", "+x", "./startup.sh"]
 
-ENTRYPOINT [ "./letsgo.sh"]
+ENTRYPOINT [ "./startup.sh"]
