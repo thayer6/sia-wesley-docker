@@ -9,5 +9,6 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - ~/caseythayer/SIA/:/SIA-Home/notebooks
+      - ~/caseythayer/SIA/python:/SIA-Home/notebooks
     build: .
+    #command: ./startup.sh
