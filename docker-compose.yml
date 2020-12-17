@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  notebook:
+    container_name: SIA_Wesley
+    labels:
+      description: Docker container for Wesley
+      name: jupyter notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ~/caseythayer/SIA/:/SIA-Home/notebooks
+    build: .
