@@ -1,5 +1,5 @@
 # Wesley Docker Container
-This is the code used to build and run the Wesley Docker Container
+This is the code used to build and run the Wesley Docker Container!
 
 How to get started:
 1. Navigate to the directory where you'd like to work locally on Wesley
