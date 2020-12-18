@@ -5,7 +5,9 @@ How to get started:
 1. Navigate to the directory where you'd like to work locally on Wesley
     In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername/). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
 2. Clone the Wesley repository of interest and enter the directory
+
     git clone Wesley-repo-URL
+    
     cd repo-directory
 1. Build image using the following command
     docker build -t siawesley:1.0 .
