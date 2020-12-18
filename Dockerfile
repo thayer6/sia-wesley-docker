@@ -1,5 +1,5 @@
 FROM python:3.7.3
-WORKDIR /caseythayer/SIA/wesleytest
+WORKDIR /caseythayer/SIA/wesleytest/save_loc/
 
 COPY requirements.txt .
 
