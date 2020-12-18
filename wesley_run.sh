@@ -4,7 +4,7 @@
 #mount_var="/Users/caseythayer/SIA/wesleytest"
 
 # docker mount location
-docker_loc="/SIA/wesleytest/"
+docker_loc="/docker_loc/"
 
 # run container wesTest
 docker run -it -d -v "${pwd}:${docker_loc}" -p 8888:8888 --name wesley siawesley:1.0
