@@ -5,4 +5,5 @@ if [ "$answer" == y ] ; then
         echo -e "Starting up Jupyter Notebook!"
         jupyter notebook --port=8888 --no-browser --ip=0.0.0.0 --allow-root
 else echo -e "Please use another IDE to work in the container (such as VS Code)"
+# jupyter lab --ip=0.0.0.0 --port=8888 --allow-root
 fi
