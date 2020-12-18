@@ -1,13 +1,20 @@
-# Wesley
-This is the core code that the SIA Data Science Team uses for Wesley.
+# Wesley Docker Container
+This is the code used to build and run the Wesley Docker Container
 
-SIA wesley docker repo
-
-How to get started
-clone wesley code repo into a new directory cd into it
+How to get started:
+1. Navigate to the directory where you'd like to work locally on Wesley
+    In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername/). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
+2. Clone the Wesley repository of interest and enter the directory
+    git clone <Wesley-repo-URL>
+    cd <repo-directory>
 1. Build image using the following command
-    build commmand
+    docker build -t siawesley:1.0 .
 
-Everytime you want to do something 
-2. Run container with ./wesley_run.sh
-3. You are now in the container bash. Run ./startup.sh to get started
+How to get up and running during development using Jupyter Notebook or Jupyter Lab:
+1. Navigate to the directory where the cloned Wesley repository resides (i.e. cd /wesleycode/)
+2. Start the Docker container with ./wesley.sh
+3. You are now in the container bash. Run ./startup_jupyter.sh and follow the prompts to start working in Jupyter Notebook or Jupyter Lab
+4. When you're done run the following command to stop the container:
+    docker stop wesley
+
+How to get up and running during development using VS Code: TBD

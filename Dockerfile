@@ -1,5 +1,5 @@
 FROM python:3.7.3
-WORKDIR /SIA/wesleytest/
+WORKDIR /SIA/wesley/
 
 COPY requirements.txt .
 
@@ -10,8 +10,5 @@ RUN echo "done!"
 
 COPY . .
 
-RUN ["chmod", "+x", "./startup.sh"]
-RUN ["chmod", "+x", "./wesley_build.sh"]
-RUN ["chmod", "+x", "./wesley_run.sh"]
-
-#ENTRYPOINT [ "./startup.sh"]
+RUN ["chmod", "+x", "./startup_jupyter.sh"]
+RUN ["chmod", "+x", "./wesley.sh"]
