@@ -9,12 +9,14 @@ How to get started:
     git clone Wesley-repo-URL
     
     cd repo-directory
-1. Build image using the following command
+3. Build image using the following command
     docker build -t siawesley:1.0 .
+4. Run the container with ./wesley.sh
+5. You are now in the container bash. Type exit to leave the bash and then run docker stop wesley
 
 How to get up and running during development using Jupyter Notebook or Jupyter Lab:
 1. Navigate to the directory where the cloned Wesley repository resides (i.e. cd /wesleycode/)
-2. Start the Docker container with ./wesley.sh
+2. Start the Docker container with docker start wesley
 3. You are now in the container bash. Run ./startup_jupyter.sh and follow the prompts to start working in Jupyter Notebook or Jupyter Lab
 4. When you're done run the following command to stop the container:
     docker stop wesley

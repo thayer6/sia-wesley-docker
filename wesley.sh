@@ -1,7 +1,7 @@
 # this is a a script to start the Wesley container
 # make sure that you're in the directory you want to use the container with
 
-# docker mount location
+# docker mount location -- nothing really goes in here but it's a connection to the local directory and the docker directory
 docker_loc="/docker_loc/"
 
 # run container wesley
@@ -13,4 +13,4 @@ docker exec -t wesley bash
 #./startup_jupyter.sh
 
 # to stop container run
-# docker stop <container name>
+# docker stop wesley
