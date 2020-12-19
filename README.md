@@ -16,7 +16,8 @@ How to get started:
 
 How to get up and running during development using Jupyter Notebook or Jupyter Lab:
 1. Navigate to the directory where the cloned Wesley repository resides (i.e. cd /wesleycode/)
-2. Start the Docker container with docker start wesley
+2. Start the Docker container with the following command: 
+    docker start wesley
 3. You are now in the container bash. Run ./startup_jupyter.sh and follow the prompts to start working in Jupyter Notebook or Jupyter Lab
 4. When you're done run the following command to stop the container:
     docker stop wesley
