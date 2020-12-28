@@ -12,9 +12,9 @@ This is the code used to build and run the Wesley Docker Container!
 
 
 3. Build image using the following command
-    docker build -t siawesley:1.0 .
+    docker pull thayer6/siawesley:1.0
 4. Run the container with ./wesley.sh
-5. You are now in the container bash. Type exit to leave the bash and then run docker stop wesley
+5. You are now in the container bash. Type "exit" to leave the bash and then run: "docker stop wesley"
 
 # How to get up and running during development using Jupyter Notebook or Jupyter Lab:
 1. Navigate to the directory where the cloned Wesley repository resides (i.e. cd /wesleycode/)
