@@ -9,6 +9,8 @@ How to get started:
     git clone Wesley-repo-URL
     
     cd repo-directory
+
+
 3. Build image using the following command
     docker build -t siawesley:1.0 .
 4. Run the container with ./wesley.sh
@@ -22,4 +24,16 @@ How to get up and running during development using Jupyter Notebook or Jupyter L
 4. When you're done run the following command to stop the container:
     docker stop wesley
 
-How to get up and running during development using VS Code: TBD
+How to get up and running during development using VS Code: 
+1. Navigate to the directory where you'd like to work locally on Wesley
+    In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername/). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
+2. Clone the Wesley repository of interest and enter the directory
+
+    git clone Wesley-repo-URL
+
+
+3. Open VS Code
+    Download the "Remote Containers" extension
+4. Click on the arrows in the bottom left hand corner and select "Open folder in remote container"
+    Navigate to the folder you cloned the Wesley repository into and click open
+5. The container will now build off of the .devcontainer folder and you can develop/run all your code within the container
