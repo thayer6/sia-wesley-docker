@@ -8,7 +8,7 @@ How to get started:
     In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
 2. Clone the Wesley repository of interest and enter the directory
 
-    git clone <"wesley-repo-url">
+    git clone wesley-repo-url
     
     cd wesleyfolder
 
@@ -53,7 +53,7 @@ How to get started:
     In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
 2. Clone the Wesley repository of interest and enter the directory
 
-    git clone <"wesley-repo-url">
+    git clone wesley-repo-url
     
     cd wesleyfolder
 
