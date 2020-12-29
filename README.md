@@ -12,14 +12,24 @@ How to get started:
     
     cd wesleyfolder
 
+3. Create your own config shell script off of the wesley_example.sh that exists in the repo.
+
+    Create a new shell script
+
+    touch wesley.sh
+
+    Copy the contents from the example script into your new shell script
+    cp wesley_example.sh wesley.sh
+
+    Then edit the mount_loc variable to contain the full path to your working directory (ie. where you cloned the SIA Wesley repository)
+
 
 3. Pull and build the image using the following command
 
     docker pull thayer6/wesleydocker:1.0
 
-4. Open up ./wesley.sh shell script and change the mount_loc variable to the full path of your local directory where the cloned Wesley code resides
-5. Create and start the container with ./wesley.sh
-6. You are now in the container bash. To start coding right away in jupyter notebook or jupyter lab skip to step 3 below. 
+4. Create and start the container with by running ./wesley.sh
+5. You are now in the container bash. To start coding right away in jupyter notebook or jupyter lab skip to step 3 below. 
     
 How to get up and running:
 1. In the terminal, navigate to the directory where you'd like to work on Wesley (i.e. cd /wesleyfolder/)
