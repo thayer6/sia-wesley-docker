@@ -1,39 +1,55 @@
 # Wesley Docker Container
-This is the code used to build and run the Wesley Docker Container!
+This is the code used to build and develop in the Wesley Docker Container! There are two workflows, one for using the Jupyter Notebook or Jupyter Lab and another for using VS Code. Once you start with one workflow, you are not stuck with it, you can use both or either workflow when developing Wesley. If you have any questions or run into any errors, please don't hesitate to reach out to Casey and/or Terrence!
+
+# Jupyter Workflow
 
 How to get started:
 1. Navigate to the directory where you'd like to work locally on Wesley
-    In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername/). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
+    In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
 2. Clone the Wesley repository of interest and enter the directory
 
-    git clone Wesley-repo-URL
+    git clone <"wesley-repo-url">
     
-    cd repo-directory
+    cd wesleyfolder
 
 
-3. Build image using the following command
-    docker build -t siawesley:1.0 .
-4. Run the container with ./wesley.sh
-5. You are now in the container bash. Type exit to leave the bash and then run docker stop wesley
+3. Pull and build the image using the following command
 
-How to get up and running during development using Jupyter Notebook or Jupyter Lab:
-1. Navigate to the directory where the cloned Wesley repository resides (i.e. cd /wesleycode/)
-2. Start the Docker container with the following command: 
+    docker pull thayer6/wesleydocker:1.0
+
+4. Open up ./wesley.sh shell script and change the mount_loc variable to the full path of your local directory where the cloned Wesley code resides
+5. Create and start the container with ./wesley.sh
+6. You are now in the container bash. To start coding right away in jupyter notebook or jupyter lab skip to step 3 below. 
+    
+How to get up and running:
+1. In the terminal, navigate to the directory where you'd like to work on Wesley (i.e. cd /wesleyfolder/)
+2. Start the Docker container with the following command (if not already started): 
+
     docker start wesley
+
+3. To enter the wesley container bash use the following command:
+
+    docker exec -ti wesley bash
+
 3. You are now in the container bash. Run ./startup_jupyter.sh and follow the prompts to start working in Jupyter Notebook or Jupyter Lab
+
 4. When you're done run the following command to stop the container:
+
     docker stop wesley
 
-How to get up and running during development using VS Code: 
+# VS Code Workflow
+How to get started:
 1. Navigate to the directory where you'd like to work locally on Wesley
-    In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername/). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
+    In the terminal this can be done using the cd command to traverse your local directories (i.e. cd /foldername). You can also create a new directory using the mkdir command (i.e. mkdir welseyfolder).
 2. Clone the Wesley repository of interest and enter the directory
 
-    git clone Wesley-repo-URL
+    git clone <"wesley-repo-url">
+    
+    cd wesleyfolder
 
-
-3. Open VS Code
+How to get up and running:
+1. Open VS Code
     Download the "Remote Containers" extension
-4. Click on the arrows in the bottom left hand corner and select "Open folder in remote container"
-    Navigate to the folder you cloned the Wesley repository into and click open
-5. The container will now build off of the .devcontainer folder and you can develop/run all your code within the container
+2. Click on the arrows in the bottom left hand corner and select "Open folder in remote container"
+    Navigate to the folder you want to work on Wesley in and click open
+3. The container will now build off of the .devcontainer folder and you can develop/run all your code within the container. Additionally, you can push/pull directly to a github repo from the remote container in VS Code!

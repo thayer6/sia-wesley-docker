@@ -14,6 +14,5 @@ RUN echo "done!"
 # copy files from local directory into docker working directory
 COPY . .
 
-# give permissions to shell script files
+# give permissions to shell script file
 RUN ["chmod", "+x", "./startup_jupyter.sh"]
-RUN ["chmod", "+x", "./wesley.sh"]

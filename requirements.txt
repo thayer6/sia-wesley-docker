@@ -393,8 +393,8 @@ python-dateutil==2.8.1
 python-docx==0.8.10
 python-pptx==0.6.18
 python-slugify==4.0.0
-pytorch-nlp==0.5.0
-pytorch-pretrained-bert==0.6.2
+#pytorch-nlp==0.5.0
+#pytorch-pretrained-bert==0.6.2
 pyttsx3==2.90
 pytz==2019.1
 PyYAML==5.2
@@ -434,10 +434,10 @@ sshtunnel==0.1.5
 statsmodels==0.11.1
 tabulate==0.8.6
 tangled-up-in-unicode==0.0.3
-tensorboard==2.2.2
-tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
+#tensorboard==2.2.2
+#tensorboard-plugin-wit==1.6.0.post3
+#tensorflow==2.2.0
+#tensorflow-estimator==2.2.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
@@ -449,7 +449,7 @@ thinc==7.4.0
 tika==1.19
 tk==0.1.0
 tokenizers==0.7.0
-torch==1.5.0
+#torch==1.5.0
 tornado==6.0.3
 tqdm==4.42.0
 traitlets==4.3.3
